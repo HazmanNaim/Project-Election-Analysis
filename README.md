@@ -17,6 +17,12 @@ Once the data is extracted, it undergoes a data preparation phase. This involves
 The data analysis phase focuses on calculating the performance of each alliance based on the election results. The seat distribution across alliances is determined, allowing for insights into the distribution of parliamentary seats. Additionally, the margin of votes is calculated, providing an understanding of the voting margins for each alliance. This information serves as the basis for further classification of the parliament seats according to their margin.
 ### Data Visualization
 Data visualization plays a crucial role in this project, employing libraries such as seaborn, matplotlib, and numpy. Various visualization techniques, including histograms, pie charts, and swarm plots, are utilized to effectively represent the seat distribution for each alliance in both General Election 14 and 15. These visualizations aid in understanding the patterns, trends, and disparities in the election results.
+
+## Results
+![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/ge14_seat_distribution.png)
+
+![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/Seat%20Distribution%20by%20alliances%20histogram%20-%20GE14.png)
+
 ## Authors
 
 - [@HazmanNaim ](https://www.github.com/HazmanNaim)
