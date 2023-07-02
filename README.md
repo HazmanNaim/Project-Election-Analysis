@@ -21,3 +21,6 @@ Data visualization plays a crucial role in this project, employing libraries suc
 
 - [@HazmanNaim ](https://www.github.com/HazmanNaim)
 
+## Acknowledgements
+
+ - [Learning Data Science](https://www.ibm.com/training/badge/data-science-professional-certificate)
