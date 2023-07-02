@@ -20,16 +20,21 @@ Data visualization plays a crucial role in this project, employing libraries suc
 
 ## Results
 ### General Election 14
-![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/ge14_seat_distribution.png)
+![Seat Distribution according to Alliances](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/ge14_seat_distribution.png)
 
-<img src="[http://url/image.png](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/ge14_seat_distribution.png)" height="60" width="60" >
+![Histogram of Seat Disribution of each Alliance](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/Seat%20Distribution%20by%20alliances%20histogram%20-%20GE14.png)
 
-![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/Seat%20Distribution%20by%20alliances%20histogram%20-%20GE14.png)
+![Categorizing the seat for each alliance](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/Seat%20Distribution%20by%20alliances%20piechart%20-%20GE14.png)
 
-![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/Seat%20Distribution%20by%20alliances%20piechart%20-%20GE14.png)
-
-![alt_text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/ge14_seat_distribution_swarmplot.png)
+![Swarmplot showing how many seats owned by an alliance according to their seat classification](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/ge14_seat_distribution_swarmplot.png)
 ### General Election 15
+![Seat Distribution according to Alliances](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/ge15_seat_distribution.png)
+
+![Histogram of Seat Disribution of each Alliance](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/Seat%20Distribution%20by%20alliances%20histogram%20-%20GE15.png)
+
+![Categorizing the seat for each alliance](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/Seat%20Distribution%20by%20alliances%20piechart%20-%20GE15.png)
+
+![Swarmplot showing how many seats owned by an alliance according to their seat classification](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/ge15_seat_distribution_swarmplot.png)
 
 ## Authors
 
