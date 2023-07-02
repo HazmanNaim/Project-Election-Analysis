@@ -19,9 +19,17 @@ The data analysis phase focuses on calculating the performance of each alliance 
 Data visualization plays a crucial role in this project, employing libraries such as seaborn, matplotlib, and numpy. Various visualization techniques, including histograms, pie charts, and swarm plots, are utilized to effectively represent the seat distribution for each alliance in both General Election 14 and 15. These visualizations aid in understanding the patterns, trends, and disparities in the election results.
 
 ## Results
+### General Election 14
 ![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/ge14_seat_distribution.png)
 
+<img src="[http://url/image.png](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/ge14_seat_distribution.png)" height="60" width="60" >
+
 ![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/c623c7412fa1456d43d906bfc83bc19681662c79/election_analysis/Seat%20Distribution%20by%20alliances%20histogram%20-%20GE14.png)
+
+![alt text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/Seat%20Distribution%20by%20alliances%20piechart%20-%20GE14.png)
+
+![alt_text](https://github.com/HazmanNaim/Project-Election-Analysis/blob/main/election_analysis/ge14_seat_distribution_swarmplot.png)
+### General Election 15
 
 ## Authors
 
