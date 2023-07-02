@@ -1,0 +1,113 @@
+Federal Constituency,Parliament Code,Margin-of-Votes,Classification
+Kuala Pilah,p129,0.5,Marginal
+Lumut,p074,0.75,Marginal
+Sungai Besar,p093,1.73,Marginal
+Tampin,p133,2.07,Marginal
+Selangau,p214,2.21,Marginal
+Temerloh,p088,3.12,Marginal
+Ranau,p179,3.27,Marginal
+Sekijang,p141,3.39,Marginal
+Bentong,p089,3.69,Marginal
+Saratok,p205,4.36,Marginal
+Tenom,p181,5.09,Marginal
+Tambun,p063,6.12,Fairly Safe
+Tangga Batu,p136,6.74,Fairly Safe
+Raub,p080,6.86,Fairly Safe
+Kulim-Bandar Baharu,p018,7.24,Fairly Safe
+Parit Buntar,p057,7.25,Fairly Safe
+Sri Gading,p149,7.43,Fairly Safe
+Putatan,p173,7.78,Fairly Safe
+Pokok Sena,p008,7.86,Fairly Safe
+Titiwangsa,p119,8.21,Fairly Safe
+Sarikei,p208,8.43,Fairly Safe
+Lembah Pantai,p121,8.44,Fairly Safe
+Simpang Renggam,p151,9.7,Fairly Safe
+Tanjong Malim,p077,9.87,Fairly Safe
+Labis,p142,10.64,Safe
+Tawau,p190,11.06,Safe
+Hang Tuah Jaya,p137,11.28,Safe
+Puncak Borneo,p198,11.6,Safe
+Alor Gajah,p135,12.07,Safe
+Segamat,p140,12.08,Safe
+Kangar,p002,12.54,Safe
+Padang Serai,p017,12.57,Safe
+Balik Pulau,p053,12.99,Safe
+Sungai Siput,p062,13.12,Safe
+Ledang,p144,13.25,Safe
+Jerlun,p005,13.35,Safe
+Mas Gading,p192,13.43,Safe
+Merbok,p014,14.12,Safe
+Kuala Selangor,p096,14.23,Safe
+Kapar,p109,15.37,Safe
+Hulu Selangor,p094,15.71,Safe
+Kuantan,p083,15.85,Safe
+Pagoh,p143,16.23,Safe
+Muar,p146,16.52,Safe
+Kuala Kedah,p010,17.03,Safe
+Indera Mahkota,p082,17.18,Safe
+Kuala Langat,p112,19.42,Very Safe
+Sibu,p212,20.13,Very Safe
+Sepang,p113,20.63,Very Safe
+Teluk Intan,p076,20.83,Very Safe
+Kubang Pasu,p006,21.56,Very Safe
+Batu Pahat,p150,21.79,Very Safe
+Permatang Pauh,p044,22.44,Very Safe
+Kampar,p070,22.48,Very Safe
+Sungai Petani,p015,23.31,Very Safe
+Pasir Gudang,p159,23.55,Very Safe
+Setiawangsa,p118,23.62,Very Safe
+Miri,p219,23.63,Very Safe
+Alor Setar,p009,23.78,Very Safe
+Johor Bahru,p160,24.63,Very Safe
+Nibong Tebal,p047,25.44,Very Safe
+Langkawi,p004,25.76,Very Safe
+Stampin,p196,27.4,Very Safe
+Bandar Tun Razak,p124,28.39,Very Safe
+Kluang,p152,28.63,Very Safe
+Hulu Langat,p101,28.81,Very Safe
+Lanang,p211,31.7,Very Safe
+Wangsa Maju,p116,32.93,Very Safe
+Pulai,p161,33.29,Very Safe
+Seremban,p128,33.43,Very Safe
+Sungai Buloh,p107,34.17,Very Safe
+Tebrau,p158,35.81,Very Safe
+Shah Alam,p108,36.3,Very Safe
+Bakri,p145,37.56,Very Safe
+Gopeng,p071,37.58,Very Safe
+Iskandar Puteri,p162,38.48,Very Safe
+Kulai,p163,38.74,Very Safe
+Taiping,p060,39.26,Very Safe
+Gombak,p098,40.93,Very Safe
+Selayang,p097,41.49,Very Safe
+Bangi,p102,43.99,Very Safe
+Beruas,p068,46.38,Very Safe
+Kota Melaka,p138,46.71,Very Safe
+Petaling Jaya,p105,49.56,Very Safe
+Bayan Baru,p052,50.44,Very Safe
+Sandakan,p186,53.66,Very Safe
+Port Dickson,p132,54.74,Very Safe
+Ampang,p099,54.81,Very Safe
+Rasah,p130,54.94,Very Safe
+Kota Raja,p111,55.53,Very Safe
+Kota Kinabalu,p172,56.93,Very Safe
+Puchong,p103,57.06,Very Safe
+Bandar Kuching,p195,58.85,Very Safe
+Jelutong,p050,59.96,Very Safe
+Ipoh Timor,p064,60.93,Very Safe
+Pandan,p100,61.31,Very Safe
+Batu Kawan,p046,61.33,Very Safe
+Klang,p110,61.99,Very Safe
+Bukit Bendera,p048,68.22,Very Safe
+Ipoh Barat,p065,69.81,Very Safe
+Batu Gajah,p066,69.87,Very Safe
+Segambut,p117,70.61,Very Safe
+Bukit Mertajam,p045,70.79,Very Safe
+Bukit Bintang,p120,71.1,Very Safe
+Bagan,p043,73.06,Very Safe
+Subang,p104,73.47,Very Safe
+Bukit Gelugor,p051,73.91,Very Safe
+Tanjong,p049,74.51,Very Safe
+Cheras,p123,78.0,Very Safe
+Damansara,p106,78.44,Very Safe
+Seputeh,p122,79.94,Very Safe
+Kepong,p114,84.08,Very Safe
