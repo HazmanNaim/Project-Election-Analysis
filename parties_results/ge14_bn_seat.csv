@@ -2,12 +2,14 @@ Federal Constituency,Parliament Code,Margin-of-Votes,Classification
 Tasek Gelugor,p042,0.16,Marginal
 Jasin,p139,0.35,Marginal
 Bagan Serai,p058,0.36,Marginal
+Kimanis,p176,0.62,Marginal
 Ayer Hitam,p148,0.78,Marginal
 Baling,p016,1.19,Marginal
 Tapah,p072,1.7,Marginal
 Pontian,p164,1.82,Marginal
 Libaran,p184,1.88,Marginal
 Kuala Kangsar,p067,2.43,Marginal
+Cameron Highlands,p078,2.46,Marginal
 Padang Terap,p007,2.82,Marginal
 Jempol,p127,2.85,Marginal
 Sipitang,p178,3.44,Marginal
@@ -26,7 +28,6 @@ Besut,p033,6.48,Fairly Safe
 Labuan,p166,6.79,Fairly Safe
 Bukit Gantang,p059,7.19,Fairly Safe
 Kuala Krau,p087,7.51,Fairly Safe
-Kimanis,p176,8.68,Fairly Safe
 Ketereh,p026,8.71,Fairly Safe
 Baram,p220,8.9,Fairly Safe
 Kepala Batas,p041,9.06,Fairly Safe
@@ -43,7 +44,6 @@ Paya Besar,p084,13.02,Safe
 Putrajaya,p125,13.73,Safe
 Bagan Datuk,p075,13.78,Safe
 Bintulu,p217,14.8,Safe
-Cameron Highlands,p078,15.11,Safe
 Tenggara,p155,16.02,Safe
 Sibuti,p218,16.43,Safe
 Jeli,p030,17.15,Safe
@@ -68,7 +68,6 @@ Serian,p199,36.12,Very Safe
 Hulu Rajang,p216,36.39,Very Safe
 Kota Tinggi,p156,38.28,Very Safe
 Betong,p204,39.17,Very Safe
-Tanjung Piai,p165,39.28,Very Safe
 Lawas,p222,42.11,Very Safe
 Kinabatangan,p187,44.05,Very Safe
 Limbang,p221,44.14,Very Safe

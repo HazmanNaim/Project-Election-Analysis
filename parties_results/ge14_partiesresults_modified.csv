@@ -15,7 +15,7 @@ ge14,p013,Sik,PAS,5218,47.91,41928,12.45,Safe
 ge14,p014,Merbok,PH,10072,43.31,71350,14.12,Safe
 ge14,p015,Sungai Petani,PH,21569,49.21,92534,23.31,Very Safe
 ge14,p016,Baling,BN,1074,42.6,90512,1.19,Marginal
-ge14,p017,Padang Serai,PH,8813,45.27,70084,12.57,Safe
+ge14,p017,Padang Serai,PKR,8437,54.31,62885,13.42,Safe
 ge14,p018,Kulim-Bandar Baharu,PH,3860,41.54,53343,7.24,Fairly Safe
 ge14,p019,Tumpat,PAS,17500,54.33,86585,20.21,Very Safe
 ge14,p020,Pengkalan Chepa,PAS,13232,54.88,59387,22.28,Very Safe
@@ -76,7 +76,7 @@ ge14,p074,Lumut,PH,400,40.93,53645,0.75,Marginal
 ge14,p075,Bagan Datuk,BN,5073,51.37,36806,13.78,Safe
 ge14,p076,Teluk Intan,PH,11179,54.37,53655,20.83,Very Safe
 ge14,p077,Tanjong Malim,PH,5358,45.44,54297,9.87,Fairly Safe
-ge14,p078,Cameron Highlands,BN,3238,56.18,21428,15.11,Safe
+ge14,p078,Cameron Highlands,BN,597,42.44,24284,2.46,Marginal
 ge14,p079,Lipis,BN,6569,49.82,28092,23.38,Very Safe
 ge14,p080,Raub,PH,3159,44.89,46025,6.86,Fairly Safe
 ge14,p081,Jerantut,BN,5908,45.06,50249,11.76,Safe
@@ -130,7 +130,7 @@ ge14,p128,Seremban,PH,30694,60.45,91818,33.43,Very Safe
 ge14,p129,Kuala Pilah,PH,200,44.85,40237,0.5,Marginal
 ge14,p130,Rasah,PH,46867,72.45,85307,54.94,Very Safe
 ge14,p131,Rembau,BN,4364,48.87,73856,5.91,Marginal
-ge14,p132,Port Dickson,PH,23560,72.06,43039,54.74,Very Safe
+ge14,p132,Port Dickson,PH,17710,59.06,61334,28.87,Very Safe
 ge14,p133,Tampin,PH,1002,46.29,48466,2.07,Marginal
 ge14,p134,Masjid Tanah,BN,8159,54.1,42325,19.28,Very Safe
 ge14,p135,Alor Gajah,PH,6980,50.73,57815,12.07,Safe
@@ -163,7 +163,7 @@ ge14,p161,Pulai,PH,28924,63.81,86893,33.29,Very Safe
 ge14,p162,Iskandar Puteri,PH,44864,69.24,116588,38.48,Very Safe
 ge14,p163,Kulai,PH,32748,65.42,84543,38.74,Very Safe
 ge14,p164,Pontian,BN,833,46.21,45726,1.82,Marginal
-ge14,p165,Tanjung Piai,BN,15086,66.31,38403,39.28,Very Safe
+ge14,p165,Tanjung Piai,PH,524,47.29,44948,1.17,Marginal
 ge14,p166,Labuan,BN,1450,47.59,21358,6.79,Fairly Safe
 ge14,p167,Kudat,BN,1359,49.9,37079,3.67,Marginal
 ge14,p168,Kota Marudu,BN,1774,38.44,33906,5.23,Marginal
@@ -174,7 +174,7 @@ ge14,p172,Kota Kinabalu,PH,24086,74.76,42310,56.93,Very Safe
 ge14,p173,Putatan,PH,2339,46.92,30062,7.78,Fairly Safe
 ge14,p174,Penampang,Other,23473,75.32,43108,54.45,Very Safe
 ge14,p175,Papar,Other,325,48.54,35836,0.91,Marginal
-ge14,p176,Kimanis,BN,2029,54.34,23383,8.68,Fairly Safe
+ge14,p176,Kimanis,BN,156,47.71,25028,0.62,Marginal
 ge14,p177,Beaufort,BN,3331,41.72,27212,12.24,Safe
 ge14,p178,Sipitang,BN,852,48.6,24771,3.44,Marginal
 ge14,p179,Ranau,PH,1076,45.17,32942,3.27,Marginal
@@ -184,7 +184,7 @@ ge14,p182,Pensiangan,BN,2314,48.48,24303,9.52,Fairly Safe
 ge14,p183,Beluran,BN,7115,64.46,20179,35.26,Very Safe
 ge14,p184,Libaran,BN,678,49.25,36143,1.88,Marginal
 ge14,p185,Batu Sapi,Other,4619,55.78,23261,19.86,Very Safe
-ge14,p186,Sandakan,PH,11521,74.58,21469,53.66,Very Safe
+ge14,p186,Sandakan,PH,10098,67.97,28090,35.95,Very Safe
 ge14,p187,Kinabatangan,BN,9478,67.22,21518,44.05,Very Safe
 ge14,p189,Semporna,Other,20674,80.2,33426,61.85,Very Safe
 ge14,p190,Tawau,PH,4727,50.05,42753,11.06,Safe

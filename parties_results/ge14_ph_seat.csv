@@ -1,6 +1,7 @@
 Federal Constituency,Parliament Code,Margin-of-Votes,Classification
 Kuala Pilah,p129,0.5,Marginal
 Lumut,p074,0.75,Marginal
+Tanjung Piai,p165,1.17,Marginal
 Sungai Besar,p093,1.73,Marginal
 Tampin,p133,2.07,Marginal
 Selangau,p214,2.21,Marginal
@@ -30,7 +31,6 @@ Puncak Borneo,p198,11.6,Safe
 Alor Gajah,p135,12.07,Safe
 Segamat,p140,12.08,Safe
 Kangar,p002,12.54,Safe
-Padang Serai,p017,12.57,Safe
 Balik Pulau,p053,12.99,Safe
 Sungai Siput,p062,13.12,Safe
 Ledang,p144,13.25,Safe
@@ -65,12 +65,14 @@ Stampin,p196,27.4,Very Safe
 Bandar Tun Razak,p124,28.39,Very Safe
 Kluang,p152,28.63,Very Safe
 Hulu Langat,p101,28.81,Very Safe
+Port Dickson,p132,28.87,Very Safe
 Lanang,p211,31.7,Very Safe
 Wangsa Maju,p116,32.93,Very Safe
 Pulai,p161,33.29,Very Safe
 Seremban,p128,33.43,Very Safe
 Sungai Buloh,p107,34.17,Very Safe
 Tebrau,p158,35.81,Very Safe
+Sandakan,p186,35.95,Very Safe
 Shah Alam,p108,36.3,Very Safe
 Bakri,p145,37.56,Very Safe
 Gopeng,p071,37.58,Very Safe
@@ -84,8 +86,6 @@ Beruas,p068,46.38,Very Safe
 Kota Melaka,p138,46.71,Very Safe
 Petaling Jaya,p105,49.56,Very Safe
 Bayan Baru,p052,50.44,Very Safe
-Sandakan,p186,53.66,Very Safe
-Port Dickson,p132,54.74,Very Safe
 Ampang,p099,54.81,Very Safe
 Rasah,p130,54.94,Very Safe
 Kota Raja,p111,55.53,Very Safe
